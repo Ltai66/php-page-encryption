@@ -1,4 +1,4 @@
-<h1>php中如何给页面进行加密
+<h1>php页面加密
 php-page-encryption</h1>
 把这段加入到你要加密的php页面前方
 <pre><code>&lt;?php  require_once(&#39;MkEncrypt.php&#39;);
