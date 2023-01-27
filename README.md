@@ -1,4 +1,5 @@
 # php-page-encryption
 把这段加入到你要加密的php页面前方
-<?php  require_once('MkEncrypt.php');
-MkEncrypt('你的密码');?>
+<pre><code>&lt;?php  require_once(&#39;MkEncrypt.php&#39;);
+MkEncrypt(&#39;Mango&#39;);?&gt;
+</code></pre>
