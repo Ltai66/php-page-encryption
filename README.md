@@ -5,7 +5,7 @@ php-page-encryption</h1>
 MkEncrypt(&#39;你的密码&#39;);?&gt;
 </code></pre>
 <p>加密的页面需要与本文件在同一目录下</br>
-
+文件里面的setcookie可以设置访问时间</br>
 
 本人只做一个备份</p>
 </br>
